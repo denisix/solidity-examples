@@ -1,0 +1,23 @@
+{
+  "name": "solidity-examples",
+  "version": "1.0.0",
+  "description": "example ethereum smart contracts written using Solidity language",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denisix/solidity-examples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denisix/solidity-examples/issues"
+  },
+  "homepage": "https://github.com/denisix/solidity-examples#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.2"
+  }
+}
